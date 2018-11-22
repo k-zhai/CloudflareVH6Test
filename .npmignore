@@ -1,0 +1,12 @@
+# Serverless directories
+.serverless
+node_modules/
+
+# Type declarations
+types.d.ts
+
+# Environment variables
+.env
+
+# ./dist
+./dist

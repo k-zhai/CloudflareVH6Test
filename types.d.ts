@@ -1,0 +1,1 @@
+declare module 'service-worker-router';
